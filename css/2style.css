@@ -1,0 +1,73 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: sans-serif;
+    background-image: linear-gradient(to right, #5289B5, #AFD8F2);
+    color: rgb(255, 255, 255);
+}
+
+.header{
+    font-family: 'Lato', sans-serif;
+    background-color: #0C2D48;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu ul{
+    list-style: none;
+    padding: 0;
+}
+
+.menu li{
+    text-transform: uppercase;
+    display: inline;
+    border: 1px solid #5289B5;
+    background-color: #5289B5; 
+    padding: 10px;
+}
+
+.menu a{
+    text-decoration: none;
+}
+
+.menu li:hover{
+    background-color: #B1D4E0;
+}
+
+.header h1{
+    margin-left: 115px;
+    margin-top: 80px;
+}
+
+.fotolucas{
+    border: 8px solid #AFD8F2;
+    margin: 10px;
+    width: 150px;
+}
+
+.intro{
+    font-family: 'Lato', sans-serif;
+    margin: 10px;
+    text-align: center;
+}
+
+.list{
+    padding: 5px;
+    text-align: center;
+    color: white;
+    background-color: #0C2D48;
+    border-radius: 10px;
+    margin: 10px 400px;
+}
+
+.list ul{
+    padding: 0;
+}
+
+.list li{
+    list-style: none;
+}

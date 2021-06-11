@@ -1,0 +1,105 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: sans-serif;
+    background-image: linear-gradient(to right, #5289B5, #AFD8F2);
+    color: rgb(255, 255, 255);
+}
+
+.header{
+    font-family: 'Lato', sans-serif;
+    background-color: #0C2D48;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu ul{
+    list-style: none;
+    padding: 0;
+}
+
+.menu li{
+    text-transform: uppercase;
+    display: inline;
+    border: 1px solid #5289B5;
+    background-color: #5289B5; 
+    padding: 10px;
+}
+
+.menu a{
+    text-decoration: none;
+}
+
+.menu li:hover{
+    background-color: #B1D4E0;
+}
+
+.header h1{
+    margin-top: 80px;
+    margin-left: 115px;
+}
+
+.fotolucas{
+    border: 8px solid #AFD8F2;
+    margin: 10px;
+    width: 150px;
+}
+
+.port1{
+    font-size: 18px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    background-color: #0C2D48;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px 400px;
+}
+
+.port2{
+    font-size: 18px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    background-color: #0C2D48;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px 400px;
+}
+
+.port3{
+    font-size: 18px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    background-color: #0C2D48;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px 400px;
+}
+
+.port4{
+    font-size: 18px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    background-color: #0C2D48;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px 400px;
+}
+
+.port5{
+    font-size: 18px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    background-color: #0C2D48;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px 400px;
+}
